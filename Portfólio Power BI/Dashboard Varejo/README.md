@@ -53,5 +53,4 @@ Diferente de relatórios tradicionais, este dashboard foca na **produtividade do
 ## 👤 Autor
 Davidson 
 
-## 👤 Autor
-Davidson – Analista de BI
+

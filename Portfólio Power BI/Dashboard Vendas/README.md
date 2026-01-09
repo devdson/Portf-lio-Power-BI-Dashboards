@@ -54,7 +54,4 @@ O projeto transformou **dados transacionais** em uma **visão estratégica**, pe
 ---
 
 ## 👤 Autor
-Davidson
-
-## 👤 Autor
 Davidson – Analista de BI

@@ -57,5 +57,4 @@ Os dados utilizados neste projeto são **fictícios ou anonimizados**, organizad
 
 ## 👤 Autor
 Davidson
-Davidson – Analista de BI
 
